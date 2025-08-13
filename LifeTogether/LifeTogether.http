@@ -1,0 +1,6 @@
+@LifeTogether_HostAddress = http://localhost:5264
+
+GET {{LifeTogether_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
